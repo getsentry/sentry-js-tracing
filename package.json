@@ -24,5 +24,8 @@
   "dependencies": {
     "global": "^4.4.0",
     "zone.js": "^0.11.4"
+  },
+  "volta": {
+    "node": "16.3.0"
   }
 }
